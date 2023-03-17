@@ -5,27 +5,27 @@ The Netflix-Clone web app is a clone of the real Netflix Application to a certai
 
 1. Below is the landing page you will be welcomed with when you click on the link provided in the Description section.
 
-![alt text](/app images/LoginScreen.jpg "LoginScreen")
+![alt text](/images/LoginScreen.png "LoginScreen")
 
 You can right away sign in if you have already signed up using either *Get Started* button or *Sign In* button in the top right corner. 
 
 
 2. Once you clicked sign in you will be taken to this page.
 
-![alt text](/app images/SignUpScreen.jpg "SignUpScreen")
+![alt text](/images/SignUpScreen.png "SignUpScreen")
 
 In here, enter your preferred email id and password [remember the email id should be of the @gmail.com extension] the click on the *Sign up Now* link provided to 
 sign up as a new user. 
 
 3. Once you signed in you will directly taken to the HomeScreen where you can view all of the movie posters and play trailers of the movie if it is available. 
 
-![alt text](/app images/HomeScreen.jpg "HomeScreen")
+![alt text](/images/HomeScreen.png "HomeScreen")
 
 
 4. The netflix logo in the top right corner of the HomeScreen will take you to the ProfileScreen
 
 
-![alt text](/app images/ProfileScreen.jpg "ProfileScreen")
+![alt text](/images/ProfileScreen.png "ProfileScreen")
 
 This Screen is not effectively interactive as of now except that you can sign out using the *Sign Out* button provided. 
 
