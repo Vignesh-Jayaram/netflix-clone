@@ -5,7 +5,7 @@ The Netflix-Clone web app is a clone of the real Netflix Application to a certai
 
 1. Below is the landing page you will be welcomed with when you click on the link provided in the Description section.
 
-<img align="left" width=50% src="./app images/landing page.JPG" />
+![alt text](./app images/landing page.jpg "Landing Page")
 
 
 
