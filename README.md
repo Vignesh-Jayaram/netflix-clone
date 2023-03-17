@@ -1,3 +1,53 @@
+# About
+The Netflix-Clone web app is a clone of the real Netflix Application to a certain extent. The clone has a similar landing page to that of Netflix and it also allows users to sign up using (*@gmail.com*) extension and view the trailers of the movie posters rendered there. 
+
+### How to interact with the Application?
+
+1. Below is the landing page you will be welcomed with when you click on the link provided in the Description section.
+
+<img align="left" width=50% src="./app images/landing page.jpg" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
